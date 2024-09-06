@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atherequi.github.io/sitemap.html.gz
+Sitemap: https://atherequi.github.io/app/sitemap.html.gz
+Sitemap: https://atherequi.github.io/assets/sitemap.html.gz
+Sitemap: https://atherequi.github.io/css/sitemap.html.gz
+Sitemap: https://atherequi.github.io/includes/sitemap.html.gz
+Sitemap: https://atherequi.github.io/item/sitemap.html.gz
+Sitemap: https://atherequi.github.io/src/sitemap.html.gz
